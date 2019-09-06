@@ -1,0 +1,51 @@
+/* RESET */
+html {
+	all: unset;
+	font-family: "georgia";
+	font-size: 22px;
+}
+
+/* STYLES */
+article {
+	margin: 1rem;
+	padding: 1rem;
+	margin-bottom: 0rem;
+	margin-top: 0rem;
+}
+
+article:first-child {
+	margin-top: 1rem;
+}
+
+article:last-child {
+	margin-bottom: 1rem;
+	border-style: unset;
+}
+
+h1 {
+	margin-top: 1rem;
+}
+
+h2 {
+	margin-top: -1.2rem;
+	font-size: 1rem;
+	color: black;
+}
+
+p {
+	margin-top: 0.5rem;
+	padding-left: 0.5rem;
+	border-left-style: solid;
+	border-color: #E7C99D;
+	border-width: 2px;
+}
+
+a {
+	all: unset;
+	cursor: pointer;
+	box-shadow: inset 0 -0.25em #ECD0A6;
+}
+
+a:hover {
+	box-shadow: inset 0 -0.25em #E4C69B;
+}
