@@ -5,10 +5,6 @@ html {
 	font-size: 22px;
 }
 
-html * {
-	all: unset;
-}
-
 /* STYLES */
 article {
 	margin: 1rem;
