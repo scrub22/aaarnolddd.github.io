@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/6155533/loop-code-for-each-file-in-a-directory/6155564
+https://www.geeksforgeeks.org/php-explode-function/
+https://www.mcgarvie.net/2009/08/03/all-the-rest/reading-and-parsing-text-files-with-php/
+https://stackoverflow.com/questions/6348207/making-a-paragraph-in-html-contain-a-text-from-a-file
+https://stackoverflow.com/questions/1100354/how-can-i-echo-html-in-php
+https://teamtreehouse.com/library/reading-files-into-a-string-or-array
+
